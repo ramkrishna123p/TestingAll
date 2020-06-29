@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43" started-at="2020-06-28T06:03:15Z" finished-at="2020-06-28T06:03:15Z">
+    <groups>
+      <group name="smokes">
+        <method signature="TestAllTestngAnnotations.rtest()[pri:8, instance:com.test.app.TestAllTestngAnnotations@9629756]" name="rtest" class="com.test.app.TestAllTestngAnnotations"/>
+      </group> <!-- smokes -->
+    </groups>
+    <test name="Default test" duration-ms="43" started-at="2020-06-28T06:03:15Z" finished-at="2020-06-28T06:03:15Z">
+      <class name="com.test.app.TestAllTestngAnnotations">
+        <test-method status="PASS" signature="ptest()[pri:0, instance:com.test.app.TestAllTestngAnnotations@9629756]" name="ptest" is-config="true" duration-ms="10" started-at="2020-06-28T06:03:15Z" finished-at="2020-06-28T06:03:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ptest -->
+        <test-method status="PASS" signature="atest()[pri:0, instance:com.test.app.TestAllTestngAnnotations@9629756]" name="atest" duration-ms="4" started-at="2020-06-28T06:03:15Z" finished-at="2020-06-28T06:03:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+        <test-method status="PASS" signature="atest()[pri:0, instance:com.test.app.TestAllTestngAnnotations@9629756]" name="atest" duration-ms="1" started-at="2020-06-28T06:03:15Z" finished-at="2020-06-28T06:03:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+        <test-method status="PASS" signature="atest()[pri:0, instance:com.test.app.TestAllTestngAnnotations@9629756]" name="atest" duration-ms="0" started-at="2020-06-28T06:03:15Z" finished-at="2020-06-28T06:03:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+        <test-method status="PASS" signature="atest()[pri:0, instance:com.test.app.TestAllTestngAnnotations@9629756]" name="atest" duration-ms="1" started-at="2020-06-28T06:03:15Z" finished-at="2020-06-28T06:03:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+        <test-method status="PASS" signature="btest()[pri:0, instance:com.test.app.TestAllTestngAnnotations@9629756]" name="btest" duration-ms="0" started-at="2020-06-28T06:03:15Z" finished-at="2020-06-28T06:03:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method status="PASS" signature="ftest()[pri:0, instance:com.test.app.TestAllTestngAnnotations@9629756]" name="ftest" duration-ms="1" started-at="2020-06-28T06:03:15Z" finished-at="2020-06-28T06:03:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ftest -->
+        <test-method status="PASS" signature="itest()[pri:1, instance:com.test.app.TestAllTestngAnnotations@9629756]" name="itest" duration-ms="1" started-at="2020-06-28T06:03:15Z" finished-at="2020-06-28T06:03:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- itest -->
+        <test-method status="PASS" signature="ktest()[pri:1, instance:com.test.app.TestAllTestngAnnotations@9629756]" name="ktest" duration-ms="1" started-at="2020-06-28T06:03:15Z" finished-at="2020-06-28T06:03:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ktest -->
+        <test-method status="PASS" signature="rtest()[pri:8, instance:com.test.app.TestAllTestngAnnotations@9629756]" name="rtest" duration-ms="0" started-at="2020-06-28T06:03:15Z" finished-at="2020-06-28T06:03:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtest -->
+        <test-method status="PASS" signature="stest()[pri:0, instance:com.test.app.TestAllTestngAnnotations@9629756]" name="stest" is-config="true" duration-ms="0" started-at="2020-06-28T06:03:15Z" finished-at="2020-06-28T06:03:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stest -->
+      </class> <!-- com.test.app.TestAllTestngAnnotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
